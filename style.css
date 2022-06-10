@@ -1,0 +1,16 @@
+a {
+    font-size: 32px !important;
+}
+
+h1 {
+    font-size: 56px;
+    padding: 10px;
+    margin-top: 0;
+    margin-bottom: 75px;
+}
+
+body
+{
+    background: rgb(255,115,0);
+background: linear-gradient(90deg, rgba(255,115,0,1) 0%, rgba(255,227,7,1) 35%, rgba(255,227,7,1) 65%, rgba(0,255,7,1) 100%);
+}
