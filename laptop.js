@@ -1,6 +1,6 @@
 function preload()
 {
-    img = loadImage("laptop.jpg");
+    img = loadImage("Laptop.jpg");
 }
 
 function setup()
@@ -12,9 +12,4 @@ function setup()
 function draw()
 {
     image(img, 0, 0, 550, 500);
-    fill("red");
-    text("dog", 70, 90);
-    noFill();
-    stroke("red");
-    rect(50, 70, 400, 300);
 }

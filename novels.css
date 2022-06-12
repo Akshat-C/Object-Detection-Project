@@ -12,9 +12,7 @@ font-size: 18px;
 }
 
 body {
-    background-image: url(".jpg");
-    background-size: cover;
-    background-position: center;
+    background: linear-gradient(90deg, #FDBB2D 0%, #3A1C71 100%);
 }
 
 canvas {

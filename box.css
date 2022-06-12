@@ -12,9 +12,8 @@ font-size: 18px;
 }
 
 body {
-    background-image: url("background.jpg");
-    background-size: cover;
-    background-position: center;
+    background: rgb(183,0,255);
+background: linear-gradient(90deg, rgba(183,0,255,1) 0%, rgba(7,71,255,1) 35%, rgba(7,71,255,1) 65%, rgba(0,250,255,1) 100%);
 }
 
 canvas {
